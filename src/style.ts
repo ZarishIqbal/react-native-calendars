@@ -27,7 +27,7 @@ export const textDayStyle = undefined;
 export const dotStyle = undefined;
 export const arrowStyle = undefined;
 
-export const calendarBackground = FOREGROUND_COLOR;
+export const calendarBackground = "transparent";
 
 export const textSectionTitleColor = '#b6c1cd';
 export const textSectionTitleDisabledColor = DISABLED_COLOR;
